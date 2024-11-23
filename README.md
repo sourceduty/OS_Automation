@@ -8,6 +8,11 @@
 Designed with user safety and efficiency in mind, the GPT emphasizes the importance of understanding permissions and potential risks before executing automation solutions. It maintains a friendly and helpful tone, guiding users through challenges with clear explanations and actionable advice. Whether you're looking to streamline file management, schedule system tasks, or integrate workflows across applications, this GPT is your go-to expert for simplifying desktop operations.
 
 #
+### Hardware or Software Automation
+
+The primary difference between the OS_Automation and Input_Automation repositories lies in their focus and scope. OS_Automation is dedicated to automating tasks within operating systems, emphasizing scripting solutions like PowerShell for Windows, Bash for Linux, and AppleScript for macOS to streamline workflows and optimize processes. It caters to users looking to automate system-level operations with clear instructions and examples. In contrast, Input_Automation specializes in automating hardware inputs such as mouse and keyboard actions across any operating system. It leverages natural language processing to translate user instructions into precise input commands, simplifying repetitive tasks or complex input sequences. While OS_Automation focuses on system-level efficiency, Input_Automation targets direct interaction with interfaces through simulated hardware inputs.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
