@@ -13,7 +13,7 @@ Designed with user safety and efficiency in mind, the GPT emphasizes the importa
 The primary difference between the OS_Automation and Input_Automation repositories lies in their focus and scope. OS_Automation is dedicated to automating tasks within operating systems, emphasizing scripting solutions like PowerShell for Windows, Bash for Linux, and AppleScript for macOS to streamline workflows and optimize processes. It caters to users looking to automate system-level operations with clear instructions and examples. In contrast, Input_Automation specializes in automating hardware inputs such as mouse and keyboard actions across any operating system. It leverages natural language processing to translate user instructions into precise input commands, simplifying repetitive tasks or complex input sequences. While OS_Automation focuses on system-level efficiency, Input_Automation targets direct interaction with interfaces through simulated hardware inputs.
 
 #
-### AutoHotKey
+### Smart Folder
 
 Smart Folder and AutoHotkey (AHK) share the goal of automating file organization, but they differ in implementation and scope. Smart_Folder is likely designed as a pre-built, rule-based system tailored for organizing files into categories, potentially offering an out-of-the-box solution with customizable rules defined in its codebase or configuration files. In contrast, AHK provides a scripting framework where users write custom scripts to monitor folders and apply their own logic for file categorization, making it highly flexible but requiring manual script creation. Both approaches allow automation, but Smart_Folder emphasizes ease of use and pre-defined workflows, while AHK focuses on user-defined customization and direct control over automation.
 
