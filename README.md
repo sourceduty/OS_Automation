@@ -27,6 +27,8 @@ AutoHotkey (AHK) does not natively offer the concept of a "programmable folder" 
 [Input Automation](https://github.com/sourceduty/Input_Automation)
 <br>
 [Smart Folder](https://github.com/sourceduty/Smart_Folder)
+<br>
+[Windows](https://github.com/sourceduty/Windows)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
