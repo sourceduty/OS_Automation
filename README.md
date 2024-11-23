@@ -1,4 +1,4 @@
-![Windows](https://github.com/user-attachments/assets/639b209b-972b-4a3d-bbc0-7efb58ef8a00)
+![OS Automation](https://github.com/user-attachments/assets/17350ee5-eea5-431d-93b7-052a4f62d4e4)
 
 >  Expert in OS desktop automation and scripting guidance.
 #
