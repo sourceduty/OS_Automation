@@ -16,6 +16,8 @@ The primary difference between the OS_Automation and Input_Automation repositori
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Input Automation](https://github.com/sourceduty/Input_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
